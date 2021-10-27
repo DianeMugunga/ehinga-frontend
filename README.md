@@ -1,6 +1,6 @@
 <h1 align="center">CD agrotec - Reforming Agri Living <br /></h1>  
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/49508237/104348350-a5485a80-5527-11eb-854b-b2477bfeb96d.png?" width="500" >
+  <img src="https://media.istockphoto.com/photos/tropical-leaves-abstract-green-leaves-texture-nature-background-picture-id1254474165?b=1&k=20&m=1254474165&s=170667a&w=0&h=4yiAJ1tXxs3zoEL6S1bPpKSxpbF3XIiTb-bGMedoDtk=" >
 </p>
 
 ## 🌱Agricultural Web Application for University Project Built with Reactjs + Expressjs + Nodejs + MongoDB (MERN)💻
