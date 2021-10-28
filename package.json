@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "node backend/server",
-    "build": "react-scripts build  && echo '/* /index.html  200' | cat >build/_redirects",
+    "build": "react-scripts build  && echo '/frontend/* /index.html  200' | cat >build/_redirects",
     "server": "nodemon backend/server",
     "client": "npm start --prefix frontend",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
