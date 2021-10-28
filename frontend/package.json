@@ -18,6 +18,7 @@
     "bootstrap": "^4.5.3",
     "chart.js": "^2.9.4",
     "classnames": "^2.2.6",
+    "craco": "^0.0.3",
     "dotenv": "^8.2.0",
     "mdbreact": "^5.0.1",
     "normalize.css": "^8.0.1",
@@ -45,7 +46,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build && echo '/* /index.html  200' | cat >build/_redirects",
+    "build": "craco build && echo '/* /index.html  200' | cat >build/_redirects",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
