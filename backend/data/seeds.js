@@ -20,6 +20,16 @@ const Seeds = [
         numReviews: 1
     },
     {
+        name: 'Beans',
+        image: '/images/seeds/Beans.jpg',
+        description: 'The beans are species of tree native to Iran and surrounding countries but widely cultivated elsewhere.',
+        category: 'sample category',
+        price: 350,
+        countInStock: 10,
+        rating: 4.5,
+        numReviews: 1
+    },
+    {
         name: 'Almond',
         image: '/images/seeds/almond.jpg',
         description: 'The almond is a species of tree native to Iran and surrounding countries but widely cultivated elsewhere.',

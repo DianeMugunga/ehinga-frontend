@@ -1,39 +1,39 @@
 const consumer = [
     {
         prod_name: "Mini Mogra Rice",
-        seller_name: "Sanjula",
+        seller_name: "Diane",
         image: '/images/consumer/mogra_rice.jpg',
         price: 450,
         prod_size: "10kg",
         quantity: 10,
-        avalaible_location: "Mathale"
+        avalaible_location: "Kigali"
     },
     {
         prod_name: "Red Grapes",
-        seller_name: "Test",
+        seller_name: "Mugunga",
         image: '/images/consumer/red_grapes.jpg',
         price: 200,
         prod_size: "5kg",
         quantity: 10,
-        avalaible_location: "Kandy"
+        avalaible_location: "Butari"
     },
     {
         prod_name: "Sharp Chana Dal",
-        seller_name: "Silva",
+        seller_name: "Chanice",
         image: '/images/consumer/chana_dhal.jpg',
         price: 70,
         prod_size: "500g",
         quantity: 10,
-        avalaible_location: "Panadura"
+        avalaible_location: "Rwamagana"
     },
     {
         prod_name: "Gold Atta",
-        seller_name: "Silva",
+        seller_name: "Iteka",
         image: '/images/consumer/gold_atta.jpg',
         price: 560,
         prod_size: "10kg",
         quantity: 10,
-        avalaible_location: "Dehiwala"
+        avalaible_location: "Kayonza"
     },
     {
         prod_name: "Wheat Sona",
@@ -42,7 +42,7 @@ const consumer = [
         price: 50,
         prod_size: "140kg",
         quantity: 10,
-        avalaible_location: "Jaffna"
+        avalaible_location: "Nyagatare"
     },
     {
         prod_name: "Basdmit rice",
@@ -51,7 +51,7 @@ const consumer = [
         price: 500,
         prod_size: "2kg",
         quantity: 10,
-        avalaible_location: "Moratuwa"
+        avalaible_location: "Kibungo"
     },
 ]
 
