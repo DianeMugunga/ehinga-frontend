@@ -1,5 +1,25 @@
 const Seeds = [
     {
+        name: 'soja',
+        image: '/images/seeds/soja.jpg',
+        description: 'The almond is a species of tree native to Iran and surrounding countries but widely cultivated elsewhere.',
+        category: 'sample category',
+        price: 450,
+        countInStock: 10,
+        rating: 4.5,
+        numReviews: 1
+    },
+    {
+        name: 'sorghum',
+        image: '/images/seeds/sorghum.jpg',
+        description: 'The almond is a species of tree native to Iran and surrounding countries but widely cultivated elsewhere.',
+        category: 'sample category',
+        price: 550,
+        countInStock: 10,
+        rating: 4.5,
+        numReviews: 1
+    },
+    {
         name: 'Almond',
         image: '/images/seeds/almond.jpg',
         description: 'The almond is a species of tree native to Iran and surrounding countries but widely cultivated elsewhere.',
