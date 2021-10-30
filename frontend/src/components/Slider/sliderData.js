@@ -1,6 +1,6 @@
 const slider = [
     {
-        title: "We cultivate new crops to make farmers increase profits!!",
+        title: "We import new crops to make farmers increase profits!!",
         description: "'' Agricultural growth is a proven driver of poverty reduction. When agriculture stimulates growth ... the growth is twice as effective in reducing poverty as growth based in other sectors ''",
         tag: "CD agrotec",
         image: "https://images.unsplash.com/photo-1585328000852-779be6a6582b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=735&q=80",
