@@ -99,7 +99,7 @@ const PlaceOrder = ({ history }) => {
                                                                 {item.name}
                                                             </Col>
                                                             <Col md={4}>
-                                                                {`${item.qty} x RS. ${item.price} = RS. ${item.qty * item.price}`}
+                                                                {`${item.qty} x Frw. ${item.price} = Frw. ${item.qty * item.price}`}
                                                             </Col>
                                                         </Row>
                                                     </ListGroup.Item>
@@ -120,24 +120,24 @@ const PlaceOrder = ({ history }) => {
                                 <ListGroup.Item>
                                     <Row>
                                         <Col>Items</Col>
-                                        <Col>{`RS. ${cart.itemsPrice}`}</Col>
+                                        <Col>{`Frw. ${cart.itemsPrice}`}</Col>
                                     </Row>
                                 </ListGroup.Item>
                                 <ListGroup.Item>
                                     <Row>
                                         <Col>Shipping</Col>
-                                        <Col>{`RS. ${cart.shippingPrice}`}</Col>
+                                        <Col>{`Frw. ${cart.shippingPrice}`}</Col>
                                     </Row>
                                 </ListGroup.Item>
                                 <ListGroup.Item>
                                     <Row>
                                         <Col>Tax</Col>
-                                        <Col>{`RS. ${cart.taxPrice}`}</Col>
+                                        <Col>{`Frw. ${cart.taxPrice}`}</Col>
                                     </Row>
                                 </ListGroup.Item><ListGroup.Item>
                                     <Row>
                                         <Col>Total</Col>
-                                        <Col>{`RS. ${cart.totalPrice}`}</Col>
+                                        <Col>{`Frw. ${cart.totalPrice}`}</Col>
                                     </Row>
                                 </ListGroup.Item>
                                 <ListGroup.Item>

@@ -77,7 +77,7 @@ const ConsumerProductDetailScreen = ({ history, match }) => {
                                                 <ListGroup.Item>
                                                     <Row>
                                                         <Col>Price:</Col>
-                                                        <Col><strong>RS. {consumerProduct.price}</strong></Col>
+                                                        <Col><strong>Frw. {consumerProduct.price}</strong></Col>
                                                     </Row>
                                                 </ListGroup.Item>
                                                 <ListGroup.Item>
